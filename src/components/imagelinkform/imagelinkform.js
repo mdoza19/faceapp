@@ -7,7 +7,7 @@ const Imagelinkform = ({ onInputChange, Onsubmit }) => {
 
    <div>
        <p className='f3 center'>
-            {'This Magic App will detect faces in your pictures. Try it'}
+            {'This React App will load and picture and identify the face'}
        </p>
 
        <div className='center'>
